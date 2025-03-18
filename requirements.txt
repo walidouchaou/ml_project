@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+xgboost
+lightgbm
+statsmodels
+prophet
+yfinance
+python-dotenv
+duckdb
+optuna
+joblib
